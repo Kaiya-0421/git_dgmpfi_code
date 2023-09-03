@@ -1,0 +1,1167 @@
+count=0,値は[1.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0,1.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0]
+
+count=1,値は[4.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0,4.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0]
+
+count=2,値は[7.500999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999959e-1,7.501000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016e-1]
+
+Nodelist_called_id=3
+
+-----------cmpfi(0)開始----------開始
+queueの最初の個数=1,entrypoint=1,end=0
+th_ID[0]がアクセスdata_count=1
+th_ID=0,node_list[0]=3
+node_id=3
+threadID=0, id=3
+thread生成しました
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[3]がアクセスthreadID=0, id=4
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=5
+
+threadID=0, id=6
+data_count=0
+th_ID[1]がアクセスnode_id=-1
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=7
+
+threadID=0, id=8
+
+threadID=0, id=9
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[3]がアクセスdata_count=0
+data_count=0
+node_id=-1
+data_count=0
+threadID=0, id=10
+
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=11
+
+threadID=0, id=12
+
+threadID=0, id=13
+
+node_id=-1
+threadID=0, id=14
+
+th_ID[1]がアクセスdata_count=0
+th_ID[3]がアクセスnode_id=-1
+threadID=0, id=15
+
+threadID=0, id=16
+
+threadID=0, id=17
+
+th_ID[2]がアクセスthreadID=0, id=18
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=19
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=20
+
+th_ID[3]がアクセスthreadID=0, id=21
+
+data_count=0
+node_id=-1
+threadID=0, id=22
+
+threadID=0, id=23
+
+threadID=0, id=24
+
+threadID=0, id=25
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=26
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[2]がアクセスthreadID=0, id=27
+
+threadID=0, id=28
+
+threadID=0, id=29
+
+data_count=0
+node_id=-1
+threadID=0, id=30
+
+threadID=0, id=31
+
+threadID=0, id=32
+
+th_ID[3]がアクセスthreadID=0, id=33
+
+threadID=0, id=34
+
+threadID=0, id=35
+
+threadID=0, id=36
+
+threadID=0, id=37
+
+threadID=0, id=38
+
+threadID=0, id=39
+
+data_count=0
+node_id=-1
+threadID=0, id=40
+
+data_count=0
+th_ID[1]がアクセスnode_id=-1
+threadID=0, id=41
+
+threadID=0, id=42
+
+th_ID[3]がアクセスthreadID=0, id=43
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=44
+
+threadID=0, id=45
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=46
+
+data_count=0
+threadID=0, id=47
+
+node_id=-1
+threadID=0, id=48
+
+threadID=0, id=49
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=50
+
+data_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=51
+
+th_ID[2]がアクセスthreadID=0, id=52
+
+data_count=0
+node_id=-1
+threadID=0, id=53
+
+threadID=0, id=54
+
+threadID=0, id=55
+
+threadID=0, id=56
+
+th_ID[1]がアクセスthreadID=0, id=57
+
+threadID=0, id=58
+
+threadID=0, id=59
+
+threadID=0, id=60
+
+threadID=0, id=61
+
+data_count=0
+data_count=0
+node_id=-1
+data_count=0
+threadID=0, id=62
+
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+th_ID[1]がアクセスnode_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+node_id=-1
+break前check==0
+th_ID[0]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+data_count=0
+node_id=-1
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+Thread[2]func_id=-1
+pthread_EXIT[2]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(0)終了-----------終了
+
+-----------cmpfi(1)開始----------開始
+queueの最初の個数=1,entrypoint=0,end=0
+thread生成しました
+th_ID[3]がアクセスdata_count=1
+th_ID=3,node_list[0]=3
+node_id=3
+threadID=3, id=3
+
+1後threadID=3, id=4
+
+threadID=3, id=5
+
+threadID=3, id=6
+
+threadID=3, id=7
+
+threadID=3, id=8
+
+threadID=3, id=9
+
+threadID=3, id=10
+
+threadID=3, id=11
+
+threadID=3, id=12
+
+threadID=3, id=13
+
+threadID=3, id=14
+
+threadID=3, id=15
+
+threadID=3, id=16
+
+threadID=3, id=17
+
+threadID=3, id=18
+
+threadID=3, id=19
+
+threadID=3, id=20
+
+threadID=3, id=21
+
+threadID=3, id=22
+
+threadID=3, id=23
+
+threadID=3, id=24
+
+threadID=3, id=25
+
+threadID=3, id=26
+
+threadID=3, id=27
+
+threadID=3, id=28
+
+threadID=3, id=29
+
+threadID=3, id=30
+
+threadID=3, id=31
+
+th_ID[1]がアクセスdata_count=0
+th_ID[0]がアクセスth_ID[2]がアクセスthreadID=3, id=32
+
+data_count=0
+threadID=3, id=33
+
+threadID=3, id=34
+
+threadID=3, id=35
+
+threadID=3, id=36
+
+threadID=3, id=37
+
+threadID=3, id=38
+
+threadID=3, id=39
+
+threadID=3, id=40
+
+threadID=3, id=41
+
+threadID=3, id=42
+
+threadID=3, id=43
+
+threadID=3, id=44
+
+threadID=3, id=45
+
+threadID=3, id=46
+
+threadID=3, id=47
+
+threadID=3, id=48
+
+threadID=3, id=49
+
+threadID=3, id=50
+
+threadID=3, id=51
+
+threadID=3, id=52
+
+threadID=3, id=53
+
+threadID=3, id=54
+
+threadID=3, id=55
+
+threadID=3, id=56
+
+threadID=3, id=57
+
+threadID=3, id=58
+
+threadID=3, id=59
+
+threadID=3, id=60
+
+threadID=3, id=61
+
+threadID=3, id=62
+
+th_ID[3]がアクセスnode_id=-1
+th_ID[2]がアクセスdata_count=0
+data_count=0
+node_id=-1
+th_ID[1]がアクセスnode_id=-1
+node_id=-1
+th_ID[0]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+Thread[2]func_id=-1
+pthread_EXIT[2]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(1)終了-----------終了
+
+-----------cmpfi(2)開始----------開始
+queueの最初の個数=1,entrypoint=0,end=0
+thread生成しました
+th_ID[3]がアクセスdata_count=1
+th_ID=3,node_list[0]=3
+node_id=3
+threadID=3, id=3
+
+1後threadID=3, id=4
+
+threadID=3, id=5
+
+threadID=3, id=6
+
+threadID=3, id=7
+
+threadID=3, id=8
+
+threadID=3, id=9
+
+threadID=3, id=10
+
+threadID=3, id=11
+
+threadID=3, id=12
+
+threadID=3, id=13
+
+threadID=3, id=14
+
+threadID=3, id=15
+
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+threadID=3, id=16
+
+th_ID[0]がアクセスthreadID=3, id=17
+
+data_count=0
+th_ID[2]がアクセスnode_id=-1
+th_ID[1]がアクセスthreadID=3, id=18
+
+threadID=3, id=19
+
+threadID=3, id=20
+
+threadID=3, id=21
+
+threadID=3, id=22
+
+threadID=3, id=23
+
+data_count=0
+node_id=-1
+threadID=3, id=24
+data_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[0]がアクセスdata_count=0
+node_id=-1
+
+th_ID[1]がアクセスthreadID=3, id=25
+
+threadID=3, id=26
+
+threadID=3, id=27
+
+threadID=3, id=28
+
+threadID=3, id=29
+
+threadID=3, id=30
+
+threadID=3, id=31
+
+threadID=3, id=32
+
+data_count=0
+node_id=-1
+threadID=3, id=33
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+threadID=3, id=34
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=3, id=35
+
+data_count=0
+node_id=-1
+threadID=3, id=36
+
+th_ID[2]がアクセスthreadID=3, id=37
+
+data_count=0
+node_id=-1
+threadID=3, id=38
+data_count=0
+node_id=-1
+
+threadID=3, id=39
+
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+threadID=3, id=40
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=3, id=41
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[0]がアクセスthreadID=3, id=42
+
+threadID=3, id=43
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスthreadID=3, id=44
+
+threadID=3, id=45
+
+threadID=3, id=46
+
+threadID=3, id=47
+
+threadID=3, id=48
+
+threadID=3, id=49
+
+threadID=3, id=50
+
+threadID=3, id=51
+
+threadID=3, id=52
+
+threadID=3, id=53
+
+threadID=3, id=54
+
+threadID=3, id=55
+
+threadID=3, id=56
+
+threadID=3, id=57
+
+threadID=3, id=58
+
+threadID=3, id=59
+
+data_count=0
+node_id=-1
+threadID=3, id=60
+
+threadID=3, id=61
+
+th_ID[1]がアクセスthreadID=3, id=62
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+data_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+Thread[0]func_id=-1
+pthread_EXIT[0]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(2)終了-----------終了
+
+-----------cmpfi(3)開始----------開始
+queueの最初の個数=1,entrypoint=0,end=0
+th_ID[0]がアクセスdata_count=1
+th_ID=0,node_list[0]=3
+node_id=3
+threadID=0, id=3
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=4
+
+threadID=0, id=5
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=6
+
+thread生成しました
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=7
+
+th_ID[1]がアクセスthreadID=0, id=8
+data_count=0
+node_id=-1
+th_ID[2]がアクセス
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=9
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=10
+
+data_count=0
+node_id=-1
+threadID=0, id=11
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+threadID=0, id=12
+
+node_id=-1
+threadID=0, id=13
+
+th_ID[3]がアクセスthreadID=0, id=14
+
+data_count=0
+threadID=0, id=15
+
+node_id=-1
+threadID=0, id=16
+
+threadID=0, id=17
+
+threadID=0, id=18
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+threadID=0, id=19
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスnode_id=-1
+th_ID[1]がアクセス
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=20
+
+data_count=0
+node_id=-1
+threadID=0, id=21
+
+th_ID[3]がアクセスth_ID[2]がアクセスthreadID=0, id=22
+
+threadID=0, id=23
+
+threadID=0, id=24
+
+threadID=0, id=25
+
+data_count=0
+node_id=-1
+threadID=0, id=26
+data_count=0
+node_id=-1
+
+th_ID[3]がアクセスthreadID=0, id=27
+
+threadID=0, id=28
+
+threadID=0, id=29
+
+threadID=0, id=30
+
+threadID=0, id=31
+
+th_ID[1]がアクセスthreadID=0, id=32
+
+threadID=0, id=33
+
+threadID=0, id=34
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=35
+
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+threadID=0, id=36
+
+threadID=0, id=37
+
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=38
+
+threadID=0, id=39
+
+threadID=0, id=40
+
+threadID=0, id=41
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=42
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=43
+
+threadID=0, id=44
+
+threadID=0, id=45
+
+threadID=0, id=46
+
+threadID=0, id=47
+
+threadID=0, id=48
+
+threadID=0, id=49
+
+data_count=0
+threadID=0, id=50
+th_ID[1]がアクセス
+threadID=0, id=51
+
+threadID=0, id=52
+
+threadID=0, id=53
+
+threadID=0, id=54
+
+threadID=0, id=55
+
+data_count=0
+node_id=-1
+th_ID[3]がアクセスnode_id=-1
+th_ID[2]がアクセスthreadID=0, id=56
+
+threadID=0, id=57
+
+threadID=0, id=58
+
+threadID=0, id=59
+
+data_count=0
+node_id=-1
+threadID=0, id=60
+
+th_ID[1]がアクセスthreadID=0, id=61
+
+data_count=0
+node_id=-1
+threadID=0, id=62
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+data_count=0
+th_ID[1]がアクセスnode_id=-1
+break前check==0
+data_count=0
+node_id=-1
+th_ID[0]がアクセスThread[2]func_id=-1
+pthread_EXIT[2]
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(3)終了-----------終了
+
+-----------cmpfi(4)開始----------開始
+queueの最初の個数=1,entrypoint=0,end=0
+th_ID[0]がアクセスdata_count=1
+th_ID=0,node_list[0]=3
+node_id=3
+threadID=0, id=3
+
+thread生成しました
+th_ID[3]がアクセスthreadID=0, id=4
+
+threadID=0, id=5
+
+threadID=0, id=6
+
+data_count=0
+node_id=-1
+threadID=0, id=7
+
+threadID=0, id=8
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+th_ID[2]がアクセスnode_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=9
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[1]がアクセスthreadID=0, id=10
+
+data_count=0
+node_id=-1
+threadID=0, id=11
+
+threadID=0, id=12
+
+threadID=0, id=13
+
+threadID=0, id=14
+
+threadID=0, id=15
+
+threadID=0, id=16
+
+threadID=0, id=17
+
+threadID=0, id=18
+
+threadID=0, id=19
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=20
+
+threadID=0, id=21
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=22
+
+th_ID[3]がアクセスthreadID=0, id=23
+
+threadID=0, id=24
+
+threadID=0, id=25
+
+threadID=0, id=26
+
+threadID=0, id=27
+
+data_count=0
+node_id=-1
+threadID=0, id=28
+
+threadID=0, id=29
+data_count=0
+node_id=-1
+
+th_ID[2]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=30
+
+threadID=0, id=31
+
+th_ID[1]がアクセスthreadID=0, id=32
+
+threadID=0, id=33
+
+threadID=0, id=34
+
+threadID=0, id=35
+
+data_count=0
+node_id=-1
+threadID=0, id=36
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=37
+
+threadID=0, id=38
+
+threadID=0, id=39
+
+threadID=0, id=40
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=41
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[3]がアクセスthreadID=0, id=42
+
+data_count=0
+node_id=-1
+threadID=0, id=43
+
+th_ID[2]がアクセスthreadID=0, id=44
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=45
+
+threadID=0, id=46
+
+threadID=0, id=47
+
+threadID=0, id=48
+
+threadID=0, id=49
+
+threadID=0, id=50
+
+threadID=0, id=51
+
+threadID=0, id=52
+
+threadID=0, id=53
+
+threadID=0, id=54
+
+threadID=0, id=55
+
+threadID=0, id=56
+
+threadID=0, id=57
+
+threadID=0, id=58
+
+data_count=0
+node_id=-1
+threadID=0, id=59
+
+th_ID[2]がアクセスthreadID=0, id=60
+
+threadID=0, id=61
+
+threadID=0, id=62
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[0]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+data_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(4)終了-----------終了
+
+
+0[7.881798937150990680670477046269926472400944503460384411544343666427283800054470975974472609633450779961186663875647665648095514882916865044466296979016754447815347476268580574770355485980324349927084952323648553841334575180099693389177089616270792021681329350850705134537553099788395604730055735292666642840392e-2,7.881798937150990680670477046269926472400944503460384411544343666427283800054470975974472609633450779961186663875647665648095514882916865044466296979016754447815347476268580574770355485980324349927084952323648553841334575180099693389177089616270793213533257525050759705128385506921495698376527040684424939494786e-2]
+
+5[8.527450940738843767238704310672255302588071818500579722804287322533691915766870437586014282338125281032018112815414298905275693873592932250615626086863184192503715527031902132624587743454911647419945609620638627596803192199024137354276023105374436251025348093804679156159256702346199378362970835282469323270817e-1,8.527450940738843767238704310672255302588071818500579722804287322533691915766870437586014282338125281032018112815414298905275693873592932250615626086863184192503715527031902132624587743454911647419945609620638627596803192199024137354276023105374436251025348204804539786921093783453587853074476540181459204230468e-1]
+
+10[1.334405012086884046469201214999119068327678471079100334790947016197798656540377549211546301994749019974488163104291726732594440855902653124752346406233958069152057854726339698697963957232607552263245838875318733625526414489146516085080674701703918170953446543923071096695075354190505027126904565612381072615962e-3,1.334405012086884046469201214999119068327678471079100334790947016197798656540377549211546301994749019974488163104291726732594440855902653124752346406233958069152057854726339698697963957232607552263245838875318733625526414489146516085080674701703918170964812929651661108812180750770315485311086222176191342527620e-3]
+
+15[8.472096209132446337436489639739510619953997907266970665052378175822957291772502341098604142759813553803275835492337517008114440101790466231203937020913821308808611051263436497743235293252983946763773712955468572369140409535191615083198862745270251965260269785650111376314101792501652102394216370705975321172233e-1,8.472096209132446337436489639739510619953997907266970665052378175822957291772502341098604142759813553803275835492337517008114440101790466231203937020913821308808611051263436497743235293252983946763773712955468572369140409535191615083198862745270251965376661575510873100393261053478911194200236533919392485068374e-1]
+
+20[7.881798937150990680670477046269926472400944503460384411544343666427283800054470975974472609633450779961186663875647665648095514882916865044466296979016754447815347476268580574770355485980324349927084952323648553841334575180099693389177089616270792021681329350850705134537553099788395604730055735292666642840392e-2,7.881798937150990680670477046269926472400944503460384411544343666427283800054470975974472609633450779961186663875647665648095514882916865044466296979016754447815347476268580574770355485980324349927084952323648553841334575180099693389177089616270793213533257525050759705128385506921495698376527040684424939494786e-2]
+
+0.002718,

@@ -1,0 +1,1247 @@
+count=0,値は[1.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0,1.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0]
+
+count=1,値は[4.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0,4.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e0]
+
+count=2,値は[7.500999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999959e-1,7.501000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016e-1]
+
+Nodelist_called_id=3
+
+-----------cmpfi(0)開始----------開始
+queueの最初の個数=1,entrypoint=1,end=0
+th_ID[0]がアクセスdata_count=1
+th_ID=0,node_list[0]=3
+node_id=3
+threadID=0, id=3
+thread生成しました
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスth_ID[3]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスth_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=4
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+threadID=0, id=5
+
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=6
+
+data_count=0
+node_id=-1
+threadID=0, id=7
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=8
+
+th_ID[3]がアクセスthreadID=0, id=9
+
+threadID=0, id=10
+
+data_count=0
+node_id=-1
+data_count=0
+th_ID[2]がアクセスthreadID=0, id=11
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=12
+
+th_ID[2]がアクセスthreadID=0, id=13
+
+data_count=0
+node_id=-1
+threadID=0, id=14
+
+th_ID[1]がアクセスdata_count=0
+threadID=0, id=15
+
+node_id=-1
+th_ID[3]がアクセスthreadID=0, id=16
+
+threadID=0, id=17
+
+threadID=0, id=18
+
+threadID=0, id=19
+
+threadID=0, id=20
+
+threadID=0, id=21
+
+threadID=0, id=22
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=23
+
+threadID=0, id=24
+
+threadID=0, id=25
+
+th_ID[2]がアクセスthreadID=0, id=26
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=27
+
+th_ID[3]がアクセスthreadID=0, id=28
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=29
+
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=30
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=31
+
+th_ID[3]がアクセスthreadID=0, id=32
+
+threadID=0, id=33
+
+data_count=0
+node_id=-1
+threadID=0, id=34
+
+th_ID[1]がアクセスthreadID=0, id=35
+
+threadID=0, id=36
+
+threadID=0, id=37
+
+data_count=0
+node_id=-1
+threadID=0, id=38
+
+threadID=0, id=39
+
+th_ID[2]がアクセスthreadID=0, id=40
+
+data_count=0
+node_id=-1
+threadID=0, id=41
+
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスthreadID=0, id=42
+
+data_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+data_count=0
+node_id=-1
+threadID=0, id=43
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=44
+
+data_count=0
+node_id=-1
+th_ID[2]がアクセスth_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=45
+
+threadID=0, id=46
+
+threadID=0, id=47
+
+th_ID[1]がアクセスthreadID=0, id=48
+
+data_count=0
+node_id=-1
+threadID=0, id=49
+
+threadID=0, id=50
+
+threadID=0, id=51
+
+th_ID[2]がアクセスthreadID=0, id=52
+
+threadID=0, id=53
+
+threadID=0, id=54
+
+threadID=0, id=55
+
+data_count=0
+node_id=-1
+threadID=0, id=56
+
+th_ID[3]がアクセスthreadID=0, id=57
+
+data_count=0
+node_id=-1
+th_ID[1]がアクセスthreadID=0, id=58
+
+data_count=0
+node_id=-1
+threadID=0, id=59
+
+threadID=0, id=60
+
+threadID=0, id=61
+
+threadID=0, id=62
+data_count=0
+node_id=-1
+
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+data_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+break前check==0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(0)終了-----------終了
+
+-----------cmpfi(1)開始----------開始
+queueの最初の個数=1,entrypoint=0,end=0
+th_ID[0]がアクセスdata_count=1
+th_ID=0,node_list[0]=3
+node_id=3
+threadID=0, id=3
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+thread生成しました
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+th_ID[2]がアクセスnode_id=-1
+th_ID[1]がアクセスthreadID=0, id=4
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=5
+
+th_ID[2]がアクセスthreadID=0, id=6
+
+data_count=0
+node_id=-1
+threadID=0, id=7
+
+th_ID[3]がアクセスdata_count=0
+node_id=-1
+threadID=0, id=8
+
+threadID=0, id=9
+
+threadID=0, id=10
+
+th_ID[1]がアクセスthreadID=0, id=11
+
+threadID=0, id=12
+
+data_count=0
+node_id=-1
+threadID=0, id=13
+
+threadID=0, id=14
+
+threadID=0, id=15
+
+data_count=0
+threadID=0, id=16
+
+th_ID[3]がアクセスthreadID=0, id=17
+
+node_id=-1
+threadID=0, id=18
+
+th_ID[2]がアクセスthreadID=0, id=19
+
+threadID=0, id=20
+
+threadID=0, id=21
+
+threadID=0, id=22
+
+threadID=0, id=23
+
+threadID=0, id=24
+
+threadID=0, id=25
+
+threadID=0, id=26
+
+threadID=0, id=27
+
+threadID=0, id=28
+
+threadID=0, id=29
+
+threadID=0, id=30
+
+threadID=0, id=31
+
+threadID=0, id=32
+
+threadID=0, id=33
+
+threadID=0, id=34
+
+threadID=0, id=35
+
+threadID=0, id=36
+
+threadID=0, id=37
+
+threadID=0, id=38
+
+threadID=0, id=39
+
+threadID=0, id=40
+
+threadID=0, id=41
+
+threadID=0, id=42
+
+threadID=0, id=43
+
+threadID=0, id=44
+
+threadID=0, id=45
+
+threadID=0, id=46
+
+threadID=0, id=47
+
+threadID=0, id=48
+
+threadID=0, id=49
+
+threadID=0, id=50
+
+threadID=0, id=51
+
+threadID=0, id=52
+
+threadID=0, id=53
+
+threadID=0, id=54
+
+threadID=0, id=55
+
+threadID=0, id=56
+
+threadID=0, id=57
+
+threadID=0, id=58
+
+threadID=0, id=59
+
+threadID=0, id=60
+
+threadID=0, id=61
+
+threadID=0, id=62
+
+th_ID[0]がアクセスdata_count=0
+data_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+全スレッド死亡
+thread_killed
+th_ID[2]がアクセスcheck_c=1
+終了時id=-1
+data_count=1
+th_ID=2,node_list[0]=3
+node_id=3
+threadID=2, id=3
+
+
+----------cmpfi(1)終了-----------終了
+
+threadID=2, id=4
+
+threadID=2, id=5
+
+threadID=2, id=6
+
+threadID=2, id=7
+
+threadID=2, id=8
+
+threadID=2, id=9
+
+threadID=2, id=10
+
+threadID=2, id=11
+
+threadID=2, id=12
+
+threadID=2, id=13
+
+threadID=2, id=14
+
+threadID=2, id=15
+
+threadID=2, id=16
+
+threadID=2, id=17
+
+threadID=2, id=18
+
+threadID=2, id=19
+
+threadID=2, id=20
+
+threadID=2, id=21
+
+threadID=2, id=22
+
+threadID=2, id=23
+
+threadID=2, id=24
+
+threadID=2, id=25
+
+threadID=2, id=26
+
+threadID=2, id=27
+
+threadID=2, id=28
+
+threadID=2, id=29
+
+threadID=2, id=30
+
+threadID=2, id=31
+
+threadID=2, id=32
+
+threadID=2, id=33
+
+threadID=2, id=34
+
+threadID=2, id=35
+
+threadID=2, id=36
+
+threadID=2, id=37
+
+threadID=2, id=38
+
+threadID=2, id=39
+
+threadID=2, id=40
+
+threadID=2, id=41
+
+threadID=2, id=42
+
+threadID=2, id=43
+
+threadID=2, id=44
+
+threadID=2, id=45
+
+threadID=2, id=46
+
+threadID=2, id=47
+
+threadID=2, id=48
+
+threadID=2, id=49
+
+threadID=2, id=50
+
+threadID=2, id=51
+
+threadID=2, id=52
+
+threadID=2, id=53
+
+threadID=2, id=54
+
+threadID=2, id=55
+
+threadID=2, id=56
+
+threadID=2, id=57
+
+
+-----------cmpfi(2)開始----------開始
+queueの最初の個数=0,entrypoint=0,end=0
+threadID=2, id=58
+
+threadID=2, id=59
+
+threadID=2, id=60
+
+threadID=2, id=61
+
+threadID=2, id=62
+
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスthread生成しました
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[3]がアクセスth_ID[1]がアクセスth_ID[2]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+data_count=0
+node_id=-1
+pthread_EXIT[0]
+Thread[2]func_id=-1
+pthread_EXIT[2]
+data_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+pthread_EXIT[1]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(2)終了-----------終了
+
+-----------cmpfi(3)開始----------開始
+queueの最初の個数=0,entrypoint=0,end=0
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+thread生成しました
+th_ID[3]がアクセスth_ID[2]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+th_ID[1]がアクセスdata_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(3)終了-----------終了
+
+-----------cmpfi(4)開始----------開始
+queueの最初の個数=0,entrypoint=0,end=0
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+thread生成しました
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスth_ID[1]がアクセスth_ID[2]がアクセスth_ID[3]がアクセスdata_count=0
+node_id=-1
+th_ID[0]がアクセスdata_count=0
+node_id=-1
+th_ID[2]がアクセスdata_count=0
+node_id=-1
+break前check==0
+data_count=0
+node_id=-1
+Thread[2]func_id=-1
+pthread_EXIT[2]
+data_count=0
+node_id=-1
+Thread[0]func_id=-1
+pthread_EXIT[0]
+data_count=0
+node_id=-1
+Thread[1]func_id=-1
+pthread_EXIT[1]
+全スレッド死亡
+thread_killed
+check_c=1
+終了時id=-1
+
+
+----------cmpfi(4)終了-----------終了
+
+
+0[7.749757531182012412802234612642116848151131367254643531157167399194237772629390339318840433543604506793263841204860798526348798479605004087076610644901341998757387415241430967557197128895869093249932220192661131264023065634074852238702003497653955651788639193386094202987309613621445259712498098473643699924670e-1,7.749757531182012412802234612642116848151131367254643531157167399194237772629390339318840433543604506793263841204860798526348798479605004087076610644901341998757387415241430967557197128895869093249932220192661131264023065634074852238702003497653955651788639193386094202987309613621445349377471447940711335349788e-1]
+
+5[2.522560511101300179787188882260638324625530830464442355329006448471716213613471176211062313505792193600836163169574922969189545442186869529132003014110516408191960810515301223043815613832881969407627733567095172746386119650914646510204672587693197683622758893853406109911099647107747711894774503661915666136464e-2,2.522560511101300179787188882260638324625530830464442355329006448471716213613471176211062313505792193600836163169574922969189545442186869529132003014110516408191960810515301223043815613832881969407627733567095172746386119650914646510204672587693197683622758893853406109911099647107747711894775338732053992675732e-2]
+
+10[8.542960037044218916661311842588874437479758900822771468487165258308731575179992930722807303427689741832462404056958027355835797520330984146825565072345193550539954186084500427961930965144443980258770627102876124318886784957595879921893936671459957764383541414955707932017742284470925352667853850852114709398214e-1,8.542960037044218916661311842588874437479758900822771468487165258308731575179992930722807303427689741832462404056958027355835797520330984146825565072345193550539954186084500427961930965144443980258770627102876124318886784957595879921893936671459957764383541414955707932017742284470925352667939362034279347028316e-1]
+
+15[1.131372483449728064237646459917318793215124426165253511362956019784437549067864383130723164004196023703163431703925350583229970147062928011268495983964271345554095781741111177939518502611701282095343849318334022949989715379779081742161629098828291024816313369273480571416619480143595319854163876105153964829085e-3,1.131372483449728064237646459917318793215124426165253511362956019784437549067864383130723164004196023703163431703925350583229970147062928011268495983964271345554095781741111177939518502611701282095343849318334022949989715379779081742161629098828291024816313369273480571416619480143595328610508929764047288600994e-3]
+
+20[7.749757531182012412802234612642116848151131367254643531157167399194237772629390339318840433543604506793263841204860798526348798479605004087076610644901341998757387415241430967557197128895869093249932220192661131264023065634074852238702003497653955651788639193386094202987309613621445259712498098473643699924670e-1,7.749757531182012412802234612642116848151131367254643531157167399194237772629390339318840433543604506793263841204860798526348798479605004087076610644901341998757387415241430967557197128895869093249932220192661131264023065634074852238702003497653955651788639193386094202987309613621445349377471447940711335349788e-1]
+
+0.003236,
