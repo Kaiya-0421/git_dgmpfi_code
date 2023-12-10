@@ -1,6 +1,6 @@
 # 佐原君の作業場
 ## 実行の仕方
-
+- 佐原が開発したソースコードのディレクトリ位置はgit_dgmpfi_code->Sahara->code
 - 手順1  sh compile_a.sh  でコンパイル(shの内部で表示されてるのが"loggfi_a.c"のとき)loggfi_aが分割の最新版
 - 手順2 ./loggfi_a 1024    1024は仮数部長
 cmpfi.cの上部にあるcoresizeはワーカ数 0はワーカ数0(mainスレッドのみ)
